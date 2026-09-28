@@ -1,0 +1,9 @@
+{
+  "name": "nutri-scan-uog2z",
+  "version": "1.0.0",
+  "description": "Nutrition tracker that extracts data from food labels via AI OCR",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
